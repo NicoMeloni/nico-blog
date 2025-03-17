@@ -9,4 +9,4 @@ tags:
 ---
 This will work cause yes
 
-![](xiangling.jpg)
+![xiangling.jpg]()
