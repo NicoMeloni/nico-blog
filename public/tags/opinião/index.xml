@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on </description>
+    <title>Opinião on </title>
+    <link>/tags/opini%C3%A3o/</link>
+    <description>Recent content in Opinião on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/opini%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Por que escrever e compartilhar?</title>
       <link>/posts/por-que-escrever-e-compartilhar/</link>
