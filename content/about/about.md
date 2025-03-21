@@ -15,7 +15,9 @@ Ironicamente, sou estudante de Ciência da Computação, atualmente no 6° semes
 
 Ou seja, o meu objetivo com as notas que serão lançadas aqui é **ajudar quem estiver disposto a lê-las.** Seja para problemas pessoais, sociais ou psicológicos, acredito que abordagens similares às minhas são pouco discutidas no nosso mundo atual... Quem sabe você, algum parente ou amigo próximo não possa tirar algo de novo do que escreverei? **É para isso que estou começando este site.**
 
-***Obs.:** Não ganho nada com o que escrevo aqui nem cogito ganhar.* 
+***Obs. 1:** Não ganho nada com o que escrevo aqui nem cogito ganhar.* 
+
+***Obs. 2:** Caso queira conversar, fazer alguma pergunta, ou simplesmente me xingar, não hesite em me chamar por uma das minhas redes sociais listadas no menu.*
 
 ## Por que *"Tavernico"*?
 É um simples jogo entre a palavra taverna e o meu nome. Escolhi essa palavra pois pode representar um local aconchegante onde podemos refletir sobre vários assuntos enquanto desfrutamos de uma boa bebida e um petisco. É uma pena que eu não tenha recursos para abrir a minha própria taverna com esse nome rs.
