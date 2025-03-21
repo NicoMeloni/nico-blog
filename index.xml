@@ -6,14 +6,21 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Insane New Blog</title>
+      <title>Sobre mim e esse site</title>
       <link>/about/about/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
       <guid>/about/about/</guid>
-      <description>&lt;h2 id=&#34;hello&#34;&gt;Hello&lt;/h2&gt;&#xA;&lt;p&gt;texto bom é texto que todos querem ler&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;oi&lt;/li&gt;&#xA;&lt;li&gt;ola&lt;/li&gt;&#xA;&lt;li&gt;ayo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;toilet&lt;/li&gt;&#xA;&lt;li&gt;sakib&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;hello-1&#34;&gt;Hello&lt;/h2&gt;&#xA;&lt;h3 id=&#34;nooooo&#34;&gt;nooooo&lt;/h3&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;/images/74c69d8f7600802b09f708d162a560c5.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Salve, me chamo Nicolas Meloni, tenho 21 anos, natural de Nárnia (rs) e sou bastante interessado por filosofia natural e assuntos correlatos (o que pode ser bastante abrangente) mas, apesar disso, pretendo falar de coisas mais simples e objetivas por aqui.&lt;/p&gt;&#xA;&lt;p&gt;Ironicamente, sou estudante de Ciência da Computação, atualmente no 6° semestre. Porém não, não pretendo falar de tecnologia por aqui&amp;hellip; Pois sobre isso já temos bastante informação.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Também não pretendo dissertar sobre as minhas opiniões&lt;/strong&gt; (as quais, para aqueles que me conhecem pessoalmente, podem ser bastante controversas), mas sim sobre &lt;strong&gt;assuntos práticos que podem ser aproveitados por qualquer um, independente de suas visões mundo.&lt;/strong&gt; Se, por algum motivo, eu postar algo opinativo, a tag de &lt;strong&gt;&amp;ldquo;opinião&amp;rdquo;&lt;/strong&gt; será adicionada ao início do texto, facilitando a vida daqueles que desejam poupar nervos rs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Por que escrever e compartilhar?</title>
+      <link>/posts/por-que-escrever-e-compartilhar/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/por-que-escrever-e-compartilhar/</guid>
+      <description>&lt;p&gt;Aqui escrevo meus motivos&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
