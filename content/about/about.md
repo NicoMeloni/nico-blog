@@ -1,12 +1,12 @@
 ---
-title: Sobre mim e esse site
+title: Sobre
 date: 2025-03-20
 draft: false
 tags:
 ---
 
   
-
+## Quem sou eu e por que criei esse site?
 Salve, me chamo Nicolas Meloni, tenho 21 anos, natural de Nárnia (rs) e sou bastante interessado por filosofia natural e assuntos correlatos (o que pode ser bastante abrangente) mas, apesar disso, pretendo falar de coisas mais simples e objetivas por aqui.
 
 Ironicamente, sou estudante de Ciência da Computação, atualmente no 6° semestre. Porém não, não pretendo falar de tecnologia por aqui... Pois sobre isso já temos bastante informação.
@@ -15,6 +15,12 @@ Ironicamente, sou estudante de Ciência da Computação, atualmente no 6° semes
 
 Ou seja, o meu objetivo com as notas que serão lançadas aqui é ajudar quem estiver disposto a lê-las. Seja para problemas pessoais, sociais ou psicológicos, acredito que abordagens similares às minhas são pouco discutidas no nosso mundo atual... Quem sabe você, algum parente ou amigo próximo não possa tirar algo de novo do que escreverei? **É para isso que estou começando este site.**
 
-Para quem estiver curioso sobre como fiz esse blog, me baseei no vídeo abaixo do canal *NetworkChuck*...
+***Obs.:** Não ganho nada com o que escrevo aqui nem pretendo ganhar.* 
+
+## Por que *"Tavernico"*?
+É um simples jogo entre a palavra taverna e o meu nome. Escolhi essa palavra pois pode representar um local aconchegante onde podemos refletir sobre vários assuntos enquanto desfrutamos de uma bebida e uma petisco. É uma pena que eu não tenha recursos para abrir a minha própria taverna com esse nome rs.
+
+## Como criei esse blog?
+Para quem estiver curioso sobre como fiz esse blog, me baseei no seguinte vídeo do canal *NetworkChuck*: 
 https://youtu.be/dnE7c0ELEH8
 
