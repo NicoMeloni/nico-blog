@@ -22,6 +22,8 @@ Ou seja, o meu objetivo com as notas que serão lançadas aqui é **ajudar quem 
 **Algumas observações importantes:**
 - *Não ganho nada com o que escrevo aqui nem cogito ganhar.*
 - *Caso queira conversar, fazer alguma pergunta ou recomendação, ou simplesmente me xingar, não hesite em me chamar por uma das minhas redes sociais listadas no menu.*
+- *Não sou dono de nenhuma verdade absoluta, nem mesmo sou especialista nos assuntos que escrevo. Apenas compartilho abordagens diferentes, baseadas no meu conhecimento, para lidar com as inúmeras questões do cotidiano. Como todo mundo, também estou em processo de constante aprimoramento e posso falhar em minhas colocações ocasionalmente. Não tenha medo de acionar o segundo ponto desta lista caso perceba algo do tipo.*
+- *Absolutamente TUDO que eu escrevo nesse site é feito inteiramente por mim, Nicolas Meloni, sem copia e cola de outras páginas ou de inteligências artificiais generativas.*
 ## Por que *"Tavernico"*?
 É um simples jogo entre a palavra taverna e o meu nome. Escolhi essa palavra pois pode representar um local aconchegante onde podemos refletir sobre vários assuntos enquanto desfrutamos de uma boa bebida e um petisco. É uma pena que eu não tenha recursos para abrir a minha própria taverna com esse nome rs.
 ## Como criei esse blog?
