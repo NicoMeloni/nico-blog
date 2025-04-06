@@ -12,7 +12,7 @@ tags:
 ---
 ## Quem sou eu e por que criei esse site?
 
-Salve, me chamo Nicolas Meloni, tenho 21 anos, sou bastante interessado por filosofia natural e assuntos correlatos (o que pode ser bastante abrangente) mas, apesar disso, não criei essa página para me aprofundar nesses assuntos.
+Salve, me chamo Nicolas Meloni, tenho 21 anos, sou bastante interessado por filosofia, esoterismo e assuntos correlatos (o que pode ser bastante abrangente) mas, apesar disso, não criei essa página para me aprofundar nesses assuntos.
 
 Ironicamente, sou estudante de Ciência da Computação, atualmente no 6° semestre. Porém não, não irei falar de tecnologia por aqui... Pois sobre isso já temos bastante informação.
 
@@ -29,6 +29,7 @@ Mas, claro, com o tempo posso acabar escrevendo sobre outras coisas. Hobbies, co
 - *Caso queira conversar, fazer alguma pergunta ou recomendação, ou simplesmente me xingar, não hesite em me chamar por uma das minhas redes sociais listadas no menu.*
 - *Não sou dono de nenhuma verdade absoluta, nem mesmo sou especialista nos assuntos que escrevo. Apenas compartilho abordagens diferentes, baseadas no meu conhecimento, para lidar com as inúmeras questões do cotidiano. Como todo mundo, também estou em processo de constante aprimoramento e posso falhar em minhas colocações. Não tenha medo de acionar o segundo ponto desta lista caso perceba algo do tipo.*
 - *Absolutamente TUDO que eu escrevo nesse site é feito inteiramente por mim, Nicolas Meloni, sem copia e cola de outras páginas ou de inteligências artificiais generativas.*
+- *Não sou cristão nem sigo uma religião específica. Mas talvez você encontre conceitos que podem ter sido vistos em algumas crenças específicas.*
 ## Por que *"Tavernico"*?
 É um simples jogo entre a palavra taverna e o meu nome. Escolhi essa palavra pois pode representar um local aconchegante onde podemos refletir sobre vários assuntos enquanto desfrutamos de uma boa bebida e um petisco. É uma pena que eu não tenha recursos para abrir a minha própria taverna com esse nome, até porque, pelo visto, ninguém tinha pensado nesse nome de domínio antes de mim.
 
