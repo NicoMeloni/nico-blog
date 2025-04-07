@@ -31,7 +31,7 @@ Nem sequer OUSAMOS suspeitar de que algum pensamento que "sempre tivemos" não f
 
 Ou seja, nos tornamos **completamente ocos.** Cheios de máscaras e ornamentos, porém completamente isentos de ALMA, ignoramos a única VERDADE AUTÊNTICA que há dentro de nós.
 
-*Muitos podem achar tudo isso uma grande palhaçada, mas eu vos garanto que, cedo ou tarde, terão de confrontar esse fato, por bem ou por mal.*
+*Muitos podem achar tudo isso uma grande palhaçada, mas eu garanto que superar essa limitação mental fará muito, MUITO bem para a sua evolução em absolutamente todos os aspectos da vida.*
 # Resultado?
 Crise de identidade, depressão, ansiedades e melancolias de origens externas ou desconhecidas, etc. Simples.
 
