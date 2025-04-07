@@ -3,8 +3,8 @@ title: Sofrimento da Personalidade
 date: 2025-04-05
 draft: false
 tags:
-  - personalidade
-  - alma
+  - filosofia
+  - desenvolvimento
 ---
 Um dos maiores problemas que vemos no mundo atual é a famosa "Crise de Identidade". Pessoas que não sabem quem são e não entendem seu propósito na terra. Pessoas que se sentem vazias por dentro, mas que, em contrapartida, possuem uma vasta gama de opiniões, gostos e visões de mundo com a qual dizem se identificar.
 
