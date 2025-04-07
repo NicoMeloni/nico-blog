@@ -8,7 +8,7 @@ tags:
 ---
 Um dos maiores problemas que vemos no mundo atual é a famosa "Crise de Identidade". Pessoas que não sabem quem são e não entendem seu propósito na terra. Pessoas que se sentem vazias por dentro, mas que, em contrapartida, possuem uma vasta gama de opiniões, gostos e visões de mundo com a qual dizem se identificar.
 
-Os motivos que desencadeiam esse tipo de sentimento são muitos e já bastante discutidos nos campos da psicologia, não planejo "copiar e colar" coisas que muito provavelmente grande parte de vocês, leitores, já conhecem ou ouviram falar.
+Os motivos que desencadeiam esse tipo de sentimento são muitos e já bastante discutidos nos campos da psicologia, não planejo "copiar e colar" coisas que muito provavelmente grande parte de vocês, leitores, já conhece ou ouviu falar.
 
 Bom, para começo de conversa, eu não vejo a crise de identidade como um problema inteiramente psicológico e que pode ser resolvido simplesmente com atitudes básicas. Muito além disso, a crise de identidade está inteiramente relacionada com uma desconexão profunda entre o indivíduo e a sua alma — si mesmo. *Para aqueles que não acreditam em alma, considere-a, por ora, como o indivíduo em forma mais pura, sem ser estimulado ou influenciado pelo meio e pelas outras pessoas com quem convive. Mas devo alertá-lo de que pensar dessa forma poderá limitá-lo em vários aspectos da vida.*
 
