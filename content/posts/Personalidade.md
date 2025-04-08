@@ -32,13 +32,13 @@ Nem sequer ousamos suspeitar de que algum pensamento que "sempre tivemos" não f
 Ou seja, nos tornamos **completamente ocos.** Cheios de máscaras e ornamentos, porém completamente isentos de alma, ignoramos a única **verdade autêntica** que há dentro de nós.
 
 *Muitos podem achar tudo isso uma grande palhaçada, mas eu garanto que superar essa limitação mental fará muito, **muito** bem para a sua evolução em absolutamente todos os aspectos da vida.*
-## Resultado?
+### Resultado?
 Crise de identidade, depressão, ansiedades e melancolias de origens externas ou desconhecidas, etc. Simples.
 
 A pessoa que continuar preenchendo a personalidade e ignorando a alma vai sofrer com esses problemas uma hora ou outra. Se não fosse assim, a psicologia seria suficiente para resolver todos os problemas "mentais" facilmente, afinal, a nossa mente também faz parte da nossa personalidade. **Mas há muito mais além dela...**
 
 Aqueles minimamente inteligentes vão entender o que deve ser feito apenas com o que foi escrito até então: **reflexão**.  
-## A "solução"...
+### A "solução"...
 E quando digo refletir, estou falando de acessar o seu *Eu*. De bloquear todas as influencias externas da personalidade que **não representam o que você verdadeiramente é.** É um processo de **dentro** para **fora**, e não de fora para dentro — este sendo o que a maioria faz.
 
 E agora eu te pergunto: A sua alma, a sua essência, vale menos que o gostinho passageiro do pertencimento? A lareira quentinha em que você é acolhido diariamente, vale o preço da sua *alma*?
@@ -47,7 +47,7 @@ Os picos de raiva que você sente quando briga por futilidades, a sua adoração
 
 Quando você cultivar o discernimento para entender que nem tudo que os seus pais falam (por mais que o façam, na maioria dos casos, por amor) é a verdade absoluta, que nem todas as visões do seu grupo político fazem sentido, que nem todas as suas amizades te fazem bem, é nesse momento que a **primeira fagulha de expressão da sua alma se acenderá.** E quando você ter a coragem para dar completos ouvidos a si mesmo, você finalmente entenderá o quão poderoso realmente é.
 
-## Cuidado
+### Cuidado
 Contudo, **cuidado com as armadilhas no meio do caminho.** Por exemplo, não se engane ao achar que estarás mais próximo de sua essência quando começares a desprezar os ensinamentos de seus pais em benefício das inúmeras coisas que vais escutar em círculos de jovens. Lembre-se de que seus pais, por mais que possam errar, o fazem por **amor** e preocupação por **você**. Os jovens (teus amigos e colegas) o fazem, em sua grande maioria, por novidade, por mudança, por divertimento, por ideias, e não por você — o que **não significa** que devem ser ignorados.
 
 Muitos jovens acabam se envolvendo em muitos conflitos com seus pais, que possuem visões mais conservadoras. Se chateiam pois seus pais são muito rígidos em suas colocações, dificilmente aceitam novas visões (repare no que foi dito anteriormente sobre a fase adulta). Contudo, esse mesmo jovem acaba se tornando tão conservador, tão fixo em seus ideais, quanto seus pais. Acabam desprezando qualquer tipo de colocação que os lembre minimamente daquilo que os pais lhe disseram, mesmo que seja outro jovem falando, por conta das experiências desagradáveis que tiveram em casa. **E qualquer faísca que sugira mudança é logo apagada, pois o orgulho da personalidade não aceita admitir que, talvez, nossos pais realmente estivessem certos em algum momento.** 
