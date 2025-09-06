@@ -1,5 +1,5 @@
 ---
-title: Sofrimento da Personalidade
+title: Personalidade
 date: 2025-04-05
 draft: false
 tags:
