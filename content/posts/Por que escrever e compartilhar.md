@@ -6,5 +6,5 @@ tags:
   - opinião
 ---
 ggggggggggggggg
-![[Pasted image 20260228183731.png]]
+!![Image Description](/images/Pasted%20image%2020260228183731.png)
 
