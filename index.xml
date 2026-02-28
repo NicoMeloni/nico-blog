@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Vítima</title>
-      <link>/posts/v%C3%ADtima/</link>
+      <link>//localhost:1313/posts/v%C3%ADtima/</link>
       <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/v%C3%ADtima/</guid>
+      <guid>//localhost:1313/posts/v%C3%ADtima/</guid>
       <description>&lt;p&gt;Vítima. Ideia pouco falada, mas percebida todo santo dia, em todo lugar por qual passamos.&lt;/p&gt;&#xA;&lt;p&gt;Quando falamos de vítima, estamos falando de uma pessoa que sofre por conta de algo ou alguém: o &amp;ldquo;agressor&amp;rdquo;. E, nesse momento, terceirizamos a SOLUÇÃO para o nosso problema: inconscientemente, já admitimos para nós mesmos que não conseguimos resolvê-lo, afinal, &amp;ldquo;que culpa eu tenho se eu sou a vítima e ele o agressor?&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;O leigo enxerga essa situação e repete as exatas mesmas palavras do final do parágrafo anterior. Afinal, a pessoa que é vítima não desejou em nenhum momento sofrer o que está sofrendo e, portanto, só lhe resta sofrer calada em sua posição injustiçada que lhe foi dada por Deus, ou por seja lá a divindade/crença que você, leitor, tenha.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Personalidade</title>
-      <link>/posts/personalidade/</link>
+      <link>//localhost:1313/posts/personalidade/</link>
       <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/personalidade/</guid>
+      <guid>//localhost:1313/posts/personalidade/</guid>
       <description>&lt;p&gt;Um dos maiores problemas que vemos no mundo atual é a famosa &amp;ldquo;Crise de Identidade&amp;rdquo;. Pessoas que não sabem quem são e não entendem seu propósito na terra. Pessoas que se sentem vazias por dentro, mas que, em contrapartida, possuem uma vasta gama de opiniões, gostos e visões de mundo com a qual dizem se identificar.&lt;/p&gt;&#xA;&lt;p&gt;Os motivos que desencadeiam esse tipo de sentimento são muitos e já bastante discutidos nos campos da psicologia, não planejo &amp;ldquo;copiar e colar&amp;rdquo; coisas que muito provavelmente grande parte de vocês, leitores, já conhece ou ouviu falar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sobre</title>
-      <link>/about/about/</link>
+      <link>//localhost:1313/about/about/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>/about/about/</guid>
+      <guid>//localhost:1313/about/about/</guid>
       <description>&lt;h2 id=&#34;quem-sou-eu-e-por-que-criei-esse-site&#34;&gt;Quem sou eu e por que criei esse site?&lt;/h2&gt;&#xA;&lt;p&gt;Salve, me chamo Nicolas Meloni, tenho 21 anos, sou bastante interessado por filosofia, esoterismo e assuntos correlatos (o que pode ser bastante abrangente) mas, apesar disso, não criei essa página para me aprofundar nesses assuntos.&lt;/p&gt;&#xA;&lt;p&gt;Ironicamente, sou estudante de Ciência da Computação, atualmente no 6° semestre. Porém não, não irei falar de tecnologia por aqui&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Também não pretendo dissertar sobre as minhas opiniões&lt;/strong&gt; (as quais, para aqueles que me conhecem pessoalmente, podem ser bastante controversas), mas sim sobre &lt;strong&gt;assuntos práticos que podem ser aproveitados por qualquer um, independente de suas visões de mundo.&lt;/strong&gt; Se, por algum motivo, eu postar algo opinativo, a &lt;em&gt;tag&lt;/em&gt; de &lt;strong&gt;&amp;ldquo;opinião&amp;rdquo;&lt;/strong&gt; será adicionada ao início do texto, facilitando a vida daqueles que desejam poupar alguns nervos rs.&lt;/p&gt;</description>
     </item>
   </channel>
