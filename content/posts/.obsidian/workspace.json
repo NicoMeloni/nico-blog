@@ -25,14 +25,12 @@
             "id": "1c945f4c300bcd47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Por que escrever e compartilhar.md",
-                "mode": "source",
-                "source": false
+                "file": "_attachments/Pasted image 20260228183731.png"
               },
-              "icon": "lucide-file",
-              "title": "Por que escrever e compartilhar"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260228183731"
             }
           }
         ],
@@ -200,16 +198,17 @@
   },
   "active": "1c945f4c300bcd47",
   "lastOpenFiles": [
-    "Por que escrever e compartilhar 1.md",
+    "_attachments/Pasted image 20260228174914.png",
     "Por que escrever e compartilhar.md",
+    "Personalidade.md",
+    "Welcome.md",
+    "Untitled.md",
+    "Untitled.base",
+    "Por que escrever e compartilhar 1.md",
     "_attachments/Pasted image 20260301124143.png",
     "_attachments/Pasted image 20260228183731.png",
-    "_attachments/Pasted image 20260228174914.png",
-    "Untitled.md",
     "Vítima.md",
-    "Welcome.md",
     "_attachments",
-    "Personalidade.md",
     "Users/nicolauzz/Code/Personal/nico-blog/static/images/Pasted image 20260228172925.png",
     "Users/nicolauzz/Code/Personal/nico-blog/static/images",
     "Users/nicolauzz/Code/Personal/nico-blog/static",

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opinião on </title>
-    <link>/tags/opini%C3%A3o/</link>
+    <link>//localhost:1313/tags/opini%C3%A3o/</link>
     <description>Recent content in Opinião on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/opini%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/opini%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>mas</title>
-      <link>/posts/por-que-escrever-e-compartilhar/</link>
+      <link>//localhost:1313/posts/por-que-escrever-e-compartilhar/</link>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/posts/por-que-escrever-e-compartilhar/</guid>
-      <description>&lt;p&gt;ggggggggggggggg&#xA;lllpplplplp&#xA;!&lt;img src=&#34;/_attachments/Pasted%20image%2020260301124143.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/por-que-escrever-e-compartilhar/</guid>
+      <description>&lt;p&gt;ggggggggggggggg&#xA;lllpplplplp&#xA;!&lt;img src=&#34;//localhost:1313/_attachments/Pasted%20image%2020260301124143.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Por que escrever e compartilhar?</title>
-      <link>/posts/por-que-escrever-e-compartilhar-1/</link>
+      <link>//localhost:1313/posts/por-que-escrever-e-compartilhar-1/</link>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/posts/por-que-escrever-e-compartilhar-1/</guid>
-      <description>&lt;p&gt;ggggggggggggggg&#xA;lllpplplplp&#xA;!&lt;img src=&#34;/images/Pasted%20image%2020260301124143.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/por-que-escrever-e-compartilhar-1/</guid>
+      <description>&lt;p&gt;ggggggggggggggg&#xA;lllpplplplp&#xA;!&lt;img src=&#34;//localhost:1313/images/Pasted%20image%2020260301124143.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
