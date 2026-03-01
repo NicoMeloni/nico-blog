@@ -1,5 +1,5 @@
 ---
-title: Por que escrever e compartilhar?
+title: mas
 date: 2026-02-28
 draft: false
 tags:
@@ -7,4 +7,4 @@ tags:
 ---
 ggggggggggggggg
 lllpplplplp
-!![Image Description](/images/Pasted%20image%2020260301124143.png)
+!![Image Description](/_attachments/Pasted%20image%2020260301124143.png)
