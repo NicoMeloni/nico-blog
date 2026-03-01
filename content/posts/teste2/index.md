@@ -1,7 +1,7 @@
 ---
 title: teste2
 date: 2025-04-05
-draft: true
+draft: false
 tags:
   - filosofia
   - desenvolvimento
