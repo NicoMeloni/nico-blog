@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desenvolvimento</title>
-      <link>/tags/desenvolvimento/</link>
+      <link>//localhost:1313/tags/desenvolvimento/</link>
       <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/desenvolvimento/</guid>
+      <guid>//localhost:1313/tags/desenvolvimento/</guid>
       <description></description>
     </item>
     <item>
       <title>Filosofia</title>
-      <link>/tags/filosofia/</link>
+      <link>//localhost:1313/tags/filosofia/</link>
       <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/filosofia/</guid>
+      <guid>//localhost:1313/tags/filosofia/</guid>
       <description></description>
     </item>
     <item>
       <title>Opinião</title>
-      <link>/tags/opini%C3%A3o/</link>
+      <link>//localhost:1313/tags/opini%C3%A3o/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/opini%C3%A3o/</guid>
+      <guid>//localhost:1313/tags/opini%C3%A3o/</guid>
       <description></description>
     </item>
   </channel>
