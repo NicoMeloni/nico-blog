@@ -7,3 +7,4 @@ tags:
 ---
 ggggggggggggggg
 lllpplplplp
+![[Pasted image 20260301124143.png]]
