@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
+    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/opini%C3%A3o/</loc>
+    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/por-que-escrever-e-compartilhar/</loc>
+    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/v%C3%ADtima/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/v%C3%ADtima/</loc>
+    <loc>/tags/desenvolvimento/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/desenvolvimento/</loc>
+    <loc>/tags/filosofia/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/filosofia/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/personalidade/</loc>
+    <loc>/posts/personalidade/</loc>
     <lastmod>2025-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/about/</loc>
+    <loc>/about/about/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/opini%C3%A3o/</loc>
-    <lastmod>2025-03-16T00:00:00+00:00</lastmod>
+    <loc>/posts/untitled/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/por-que-escrever-e-compartilhar/</loc>
-    <lastmod>2025-03-16T00:00:00+00:00</lastmod>
+    <loc>/posts/welcome/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/untitled/</loc>
-  </url><url>
-    <loc>//localhost:1313/posts/welcome/</loc>
-  </url><url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>/series/</loc>
   </url>
 </urlset>
