@@ -25,15 +25,18 @@
             "id": "1c945f4c300bcd47",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_attachments/Pasted image 20260301124143.png"
+                "file": "teste1/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260301124143"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,17 +198,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "f4b3923f900fc376",
+  "active": "1c945f4c300bcd47",
   "lastOpenFiles": [
-    "Por que escrever e compartilhar 1.md",
+    "teste1/Pasted image 20260228183731.png",
+    "Personalidade.md",
     "Por que escrever e compartilhar.md",
+    "teste1/index.md",
+    "Pasted.md",
+    "Untitled.md",
+    "teste1",
+    "Por que escrever e compartilhar 1.md",
     "_attachments/Pasted image 20260301124143.png",
     "Vítima.md",
-    "Personalidade.md",
-    "_attachments/Pasted image 20260228183731.png",
     "_attachments/Pasted image 20260228174914.png",
     "Welcome.md",
-    "Untitled.md",
     "Untitled.base",
     "_attachments",
     "Users/nicolauzz/Code/Personal/nico-blog/static/images/Pasted image 20260228172925.png",
@@ -216,7 +222,6 @@
     "Users/nicolauzz/Code",
     "Users/nicolauzz",
     "Users",
-    "attachments/Pasted image 20260228172539.png",
-    "posts"
+    "attachments/Pasted image 20260228172539.png"
   ]
 }
