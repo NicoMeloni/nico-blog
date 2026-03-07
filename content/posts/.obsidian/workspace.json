@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cristianismo, Construtivo ou Destrutivo?.md",
+                "file": "Desconfortos e Dificuldades.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cristianismo, Construtivo ou Destrutivo?"
+              "title": "Desconfortos e Dificuldades"
             }
           }
         ],
@@ -179,8 +179,21 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "ec3dec9d5a10a39f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Desconfortos e Dificuldades.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Desconfortos e Dificuldades"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -200,10 +213,12 @@
   },
   "active": "11e6ca46a6b9608f",
   "lastOpenFiles": [
-    "about.md",
-    "Cristianismo, Construtivo ou Destrutivo?.md",
     "Personalidade.md",
+    "Desconfortos e Dificuldades.md",
+    "Cristianismo, Construtivo ou Destrutivo?.md",
     "Vítima.md",
+    "2026-03-05.md",
+    "about.md",
     "teste2/index.md",
     "2026-03-01.md",
     "Por que escrever e compartilhar.md",
