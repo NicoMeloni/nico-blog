@@ -6,8 +6,15 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desconfortos e Dificuldades</title>
+      <link>/posts/desconfortos-e-dificuldades/</link>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>/posts/desconfortos-e-dificuldades/</guid>
+      <description>&lt;p&gt;Quando eu escolhi meu curso de graduação, eu queria algo que não fosse difícil e que fizesse sentido comigo. Na época, eu jogava muito no computador e, assim como muitos fazem hoje, usei isso como uma justificativa para a minha escolha, que foi ciência da computação. Claro que não é um curso fácil, mas me recordo muito bem que um dos grandes fatores que me fez escolhê-lo foi o fato de não ter nenhuma disciplina de física e não ir além do cálculo 2. Bom, isso não fez muita diferença, pois semestre passado cursei cálculo 3 como optativa e, agora, por falta de opções, vou acabar cursando física 1 e possivelmente física 2 futuramente.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Cristianismo, Construtivo ou Destrutivo?</title>
       <link>/posts/cristianismo-construtivo-ou-destrutivo/</link>
@@ -35,6 +42,13 @@
       <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
       <guid>/posts/personalidade/</guid>
       <description>&lt;p&gt;Um dos maiores problemas que vemos no mundo atual é a famosa &amp;ldquo;Crise de Identidade&amp;rdquo;. Pessoas que não sabem quem são e não entendem seu propósito na terra. Pessoas que se sentem vazias por dentro, mas que, em contrapartida, possuem uma vasta gama de opiniões, gostos e visões de mundo com a qual dizem se identificar.&lt;/p&gt;&#xA;&lt;p&gt;Os motivos que desencadeiam esse tipo de sentimento são muitos e já bastante discutidos nos campos da psicologia, não planejo &amp;ldquo;copiar e colar&amp;rdquo; coisas que muito provavelmente grande parte de vocês, leitores, já conhece ou ouviu falar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/posts/2026-03-05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/2026-03-05/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
