@@ -1,14 +1,12 @@
 ---
 title: A Vítima
 date: 2025-09-05
-draft: false
+draft: true
 tags:
   - filosofia
   - desenvolvimento
 ---
-Vítima. Ideia pouco falada, mas percebida todo santo dia, em todo lugar por qual passamos.
-
-Quando falamos de vítima, estamos falando de uma pessoa que sofre por conta de algo ou alguém: o "agressor". E, nesse momento, terceirizamos a SOLUÇÃO para o nosso problema: inconscientemente, já admitimos para nós mesmos que não conseguimos resolvê-lo, afinal, "que culpa eu tenho se eu sou a vítima e ele o agressor?".
+Quando falamos de vítima, estamos falando de uma pessoa que sofre por conta de algo ou alguém: o "agressor". Repare que estamos falando de um agente externo a nós e, nesse momento, terceirizamos a SOLUÇÃO para o nosso problema: inconscientemente, já admitimos para nós mesmos que não conseguimos resolvê-lo, afinal, "que culpa eu tenho se eu sou a vítima e ele o agressor?".
 
 O leigo enxerga essa situação e repete as exatas mesmas palavras do final do parágrafo anterior. Afinal, a pessoa que é vítima não desejou em nenhum momento sofrer o que está sofrendo e, portanto, só lhe resta sofrer calada em sua posição injustiçada que lhe foi dada por Deus, ou por seja lá a divindade/crença que você, leitor, tenha.
 
