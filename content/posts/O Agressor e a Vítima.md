@@ -1,0 +1,53 @@
+---
+title: O Agressor e a Vítima
+date: 2025-09-05
+draft: false
+tags:
+  - filosofia
+  - desenvolvimento
+---
+Quando falamos de vítima, estamos falando de uma pessoa que sofre por conta de algo ou alguém: o "agressor". Repare que estamos falando de um agente externo a nós e, nesse momento, terceirizamos a solução para o nosso problema: internamente, já admitimos para nós mesmos que não conseguimos resolvê-lo, afinal, "que culpa eu tenho se eu sou a vítima e ele o agressor?".
+
+O leigo enxerga essa situação e repete as exatas mesmas palavras do final do parágrafo anterior. Afinal, a pessoa que é vítima não desejou em nenhum momento sofrer o que está sofrendo e, portanto, só lhe resta sofrer calada em sua posição injustiçada que lhe foi dada por Deus, ou por seja lá a divindade/crença tenha.
+
+Precisamos deixar claro que existem dois tipos de vítima: uma que de fato sofre por causa de fatores externos, e outra que se emprega todas as faculdades mentais para ser vista como coitada. Pode parecer extremo, mas nenhuma dessas pessoas deveria se colocar em posição de impotência perante a circunstância que a está afetando, ainda mais o segundo tipo que citei, pois essa pessoa sofre por causa de seu malabarismo interno para se enquadrar em posição de vítima e não por causa de algo que a rodeia.
+## O Poder da Mente
+A pessoa que permanece no **estado mental de vítima** admite para si mesma diariamente (subconscientemente) que não possui controle sobre sua circunstância de vida atual. Ou seja, ela não tem controle sobre sua a própria vida. E agora posso fazer o sangue de alguns ferver: o "agressor" (seja uma pessoa, uma situação, ou qualquer outra coisa que possa fazer esse papel) não tem nada a ver com o seu sofrimento. É muito difícil de entender isso, eu sei, mas estou falando sério, ainda mais para pessoas que de fato sofrem maus tratos de outra pessoa e não conseguem evitar isso.
+
+A pessoa que hoje é vítima mental de algo ou alguém, sofreria da mesma forma com outro algo ou alguém no futuro, caso os primeiros nunca tivessem existido. O culpado pelo seu sofrimento sempre vai ser *você mesmo*. Você não precisa acreditar nisso nesse momento, mas vou explicar por que você deveria caso queira conquistar boas coisas na sua vida: a partir do momento em que você admite que todo o seu sofrimento é de exclusiva responsabilidade **sua**, você se torna *causa* e deixa de ser efeito. De forma mais clara — você deixa de ser efeito das ações do meio e das outras pessoas, e passa a ser causa da sua própria realização. Se você acredita que será pobre por nascer pobre, você **vai** ser pobre. Se você acredita que sofrerá preconceito por ser diferente, você **vai** sofrer preconceito. Se você continua acreditando que um agente externo é o que te faz sofrer, você **vai** sofrer. 
+
+Repare que a imagem do sábio sempre é aquela de um senhor sereno, com poucos bens materiais e que não deixa uma circunstância externa o afetar. Pense em Epicteto, o filósofo estoico, por exemplo, que viveu maior parte de sua vida como escravo em Roma. Claro que estamos muito distantes de atingir esse nível paz interior, mas repare que o principal fator para evitar o sofrimento é o condicionamento mental. Mahatma Ghandi dizia:
+
+>*"**Você pode** me **acorrentar**, **você pode** me torturar, **pode** até destruir o **meu corpo**, **mas você** nunca vai aprisionar a **minha mente**."*
+
+Um sábio pode viver a vida inteira dentro de um quarto de 4m², sofrendo todo tipo de maus-tratos, e mesmo assim não sofrer. Eu teria que entrar em minha crença particular para explicar melhor, por isso não espero que entenda exatamente o que estou querendo dizer com isso.
+
+Mesmo que aquela pessoa tenha te prejudicado e que aquela situação tenha te abalado, terceirizar a responsabilidade ainda é uma escolha. Você pode muito bem não escolher isso e estar um passo mais próximo de passar a ser causa na sua vida — pois você passaria a buscar por soluções em vez de engolir o sofrimento e permanecer em seu estado mental de impotência, uma vez que a *responsabilidade se torna sua*.
+
+E é exatamente por isso que as pessoas que *se fazem* de vítimas são o tipo mais tosco possível, principalmente jovens de boas famílias e com boas condições financeiras...
+
+- *"Meus pais não me entendem..."*
+- *"O mundo está contra mim..."*
+- *"A culpa não é minha..."* 
+
+Esse excesso de ego e orgulho impede os jovens de tomarem responsabilidade por suas escolhas. Afinal, é muito acolhedor pensar que você não tem culpa de nada, evitando, assim, a reflexão interna sobre o que você pode mudar para sair dessa situação. Pois, no final das contas, não é fácil aceitar que talvez foi **você** quem errou, foi **você** quem não quis entender, foi **você** quem não quis escutar, **foi você quem não quis melhorar**... Mas dizer que o mundo existe para te sabotar e você é o *único* com razão é fácil, certo? Se existe maior autossabotagem que essa, eu desconheço. E, claro, não irei me estender a respeito do restante da situação medonha da juventude atual, que possui infinitos outros problemas além da auto vitimização compulsiva. 
+
+O indivíduo que permanece insistentemente estimulando o seu estado de vítima mental dificilmente conquistará algo de relevante, principalmente porque grande parte de sua energia mental estará sendo usada para suprimir o sofrimento causado pelos agentes externos. Essa pessoa não conseguirá direcionar o seu potencial pois viverá em um estado contínuo de impotência.
+
+Eu não queria falar sobre o que vem adiante, pois é bem polêmico, mas sinto ser necessário: isso pode e deve ser aplicado para qualquer (e todo) tipo de vitimização, sim, até mesmo racismo, sexismo, bullying, etc. Não estou falando que é fácil, longe disso, pois somos humanos, mas sim que é possível e é um dos nossos deveres na terra se essa situação específica nos impede de progredir. Quem enxerga os seus problemas como provas a serem superadas para subir mais um degrau na escada da evolução, finalmente entendeu a dinâmica da vida.
+
+Quero citar um exemplo: uma vez minha família chamou uma moça para fazer uma limpeza aqui em casa e ela era preta (infelizmente é uma informação relevante para o que vou contar a seguir). Quando acordei de manhã a cumprimentei normalmente e falei meu nome, ela fez o mesmo e largou um sorriso bem agridoce, para não dizer outra coisa. Eu, no geral, sou tímido e sempre tive uma certa dificuldade para conversar com pessoas com quem nunca convivi antes e, então, tomei meu café da manhã quieto enquanto a moça limpava alguma parte da cozinha. Eu estava calado, mas senti a necessidade de falar algo (isso é muito raro de acontecer) e puxei assunto com a moça e, assim, começamos a conversar. Ela me falou um pouco de sua vida (que infelizmente foi muito trágica), do orgulho que tem de sua filha e também do racismo que sofre, sempre falando em um tom amargurado. Em certo momento durante a conversa, ela falou, com essas exatas palavras: *"(...) você nem parece filho de patrão..."*. Isso me deixou pensativo e sem resposta, pois de fato eu não sabia o que dizer naquele momento nem saberia como responder hoje. 
+
+Ao final do dia, a moça foi embora. O serviço que fez em casa foi mediano e no final não a contratamos mas, muito provavelmente, ela enxergou essa rejeição como um possível racismo. Falo isso por conta das outras experiências que ela tinha me contado e também por conta da forma que contou. O que podemos concluir dessa minha experiência? Por que a moça trataria de melhorar seu serviço se ela já não vai ser contratada por conta de sua cor? Por que tentaria mudar se a culpa é de um agente externo? 
+
+Essa pessoa não deve ser julgada, não deve ser criticada, nem devemos culpá-la. Pois, quem é ignorante, não tem culpa. E é exatamente por isso que, a meu ver, o ensino da filosofia **prática** é tão importante, ainda mais para pessoas que de fato passam por provas mais complexas em suas vidas – repare que falei de provas, e não de problemas.
+
+As duas pessoas que mais agradaram com seus serviços em minha casa são pretas. Sempre sorridentes e com um serviço excepcional. Nenhuma delas carregava a energia e a amargura da pessoa que citei nos parágrafos anteriores, mesmo sendo da mesma cor que ela. 
+
+Não quero que ninguém confunda as coisas: não existe culpado nesse tipo de situação. A justiça não falha nunca e está presente em todos os lugares, desde a forma como a poeira se locomove no ar até a forma como os astros se movem. O nosso dever, como seres que obtiveram o conhecimento do bem e do mal, é agir de acordo com essa justiça. Por termos o livre arbítrio e falta de conhecimento, vamos agir errado e a justiça será aplicada. Ou sofreremos uma injustiça e, da mesma forma, a justiça nos recompensará. Por isso todas as nossas vivências são provas que podem nos ensinar alguma coisa. Se as ignoramos e deixamos de agir, vamos continuar sofrendo as mesmas coisas pela eternidade. Se as escutamos e aprendemos, progredimos para a nossa próxima etapa particular da evolução.
+
+E é por isso que eu sou tão rígido quando falo de vitimização e aconselho até mesmo a pessoa que esteja sofrendo a mais injusta das injustiças que abandone o estado de vítima. Escutar isso pode soar arrogante e fazer algumas pessoas dizerem coisas como *"você não sabe pelo quê estou passando"*, mas eu tenho certeza absoluta que alguém sofreu muito mais que você e, mesmo assim, conseguiu superar essa etapa. 
+
+Eu entendo que às vezes é prazeroso buscar um culpado pelos nossos problemas e apontar o dedo, mas isso é um vício **feio** que infelizmente rodeia a nossa sociedade. Sim, existem racistas, existem machistas e existem pessoas más, mas, repito, por que elas te fazem sofrer? Assim como você está em processo de matar a sua vítima interior, o indivíduo mau está em processo de matar o seu mau interior e superar os seus problemas, pois nenhuma dessas características pertencem à nossa alma. Se você, assim como eu, acredita que o nosso objetivo é a purificação para tornar-nos como os mestres Buda e Jesus, basta se perguntar: *"como eles agiriam diante desse problema?"*. Jesus alguma vez se vitimizou e culpou alguém diante de todas as injustiças que sofreu? Buda alguma vez foi mau e maltratou alguém? Você nem sequer consegue imaginar tais situações, certo?
+
+Espero que tenha entendido a minha mensagem e que ela tenha te feito refletir sobre as verdadeiras circunstâncias que estão freando a sua evolução.
