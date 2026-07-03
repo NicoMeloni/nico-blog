@@ -6,8 +6,22 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desenvolvimento</title>
+      <link>/tags/desenvolvimento/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/desenvolvimento/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filosofia</title>
+      <link>/tags/filosofia/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/filosofia/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cristianismo</title>
       <link>/tags/cristianismo/</link>
@@ -27,20 +41,6 @@
       <link>/tags/religiao/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
       <guid>/tags/religiao/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Desenvolvimento</title>
-      <link>/tags/desenvolvimento/</link>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/desenvolvimento/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Filosofia</title>
-      <link>/tags/filosofia/</link>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/filosofia/</guid>
       <description></description>
     </item>
   </channel>
